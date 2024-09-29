@@ -9,4 +9,4 @@
 </ul>
 
 Bu bot, web sitelerinin performansını izlemek ve anlık durumlardan haberdar olmak isteyenler için mükemmel bir çözümdür.Aşağıda botumun örnek görseli yer almaktadır
-
+<img src="ornekgorsel.png" width="300" height="200">
